@@ -19,6 +19,19 @@ Me chamo Lucas , tenho 24 anos e sou natural de Pernambuco. Sou um profissional 
             src="https://custom-icon-badges.demolab.com/github/followers/Lucas-Silva-07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://instagram.com/lucsilva_007" 
+       target="_blank">
+    <img 
+        alt="Instagram"
+        title="Me siga no Instagram"
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/lucas-silva-l7" 
+       target="_blank">
+    <img 
+        alt="Linkedin"
+        title="Me siga no Linkedin"
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 ---
@@ -84,7 +97,7 @@ Me chamo Lucas , tenho 24 anos e sou natural de Pernambuco. Sou um profissional 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Silva-07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
