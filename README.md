@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Lucas , tenho 24 anos e sou natural de Pernambuco. Sou um profissional em transição para a área de desenvolvimento Backend, atualmente estudando Python, Java e Git com foco em construção de APIs, lógica de programação e boas práticas de versionamento de código.
+Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissional em transição para a área de desenvolvimento Backend, atualmente estudando Python, Java e Git com foco em construção de APIs, lógica de programação e boas práticas de versionamento de código.
 
 <p align="left"> 
     <a href="https://github.com/Lucas-Silva-07?tab=repositories&sort=stargazers">
