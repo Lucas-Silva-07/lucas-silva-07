@@ -72,15 +72,13 @@ Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissio
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-  
-          
-
+           
 <br/>
 <br/>
 
