@@ -90,13 +90,13 @@ Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissio
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Silva-07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Silva-07&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Silva-07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Silva-07&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Silva-07/Lucas-Silva-07/output/github-contribution-grid-snake-dark.svg">
