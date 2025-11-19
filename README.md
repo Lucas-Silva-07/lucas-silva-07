@@ -90,7 +90,7 @@ Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissio
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Silva-07&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Silva-07&show_icons=true&theme=radical&include_all_commits=false&locale=pt-br" 
   />
 <img 
       align="left" 
