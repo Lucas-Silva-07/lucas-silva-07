@@ -56,6 +56,13 @@ Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissio
 />
 <img 
     align="left" 
+    alt="Javascript" 
+    title="Javascript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -84,20 +91,21 @@ Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissio
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
+<p> 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Silva-07&show_icons=true&theme=radical&include_all_commits=false&locale=pt-br" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=Lucas-Silva-07&show_icons=true&theme=radical" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Silva-07&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucas-Silva-07&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Silva-07/Lucas-Silva-07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Silva-07/Lucas-Silva-07/output/github-contribution-grid-snake-dark.svg">
