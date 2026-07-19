@@ -1,9 +1,9 @@
-# Lucas Silva
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
 
-**`Desenvolvedor Backend`**
-
-Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissional em transição para a área de desenvolvimento Backend, atualmente estudando Python, Java e Git com foco em construção de APIs, lógica de programação e boas práticas de versionamento de código.
-
+# Olá, eu sou o Lucas 👋
+💻 **Desenvolvedor Backend | Estudante de Engenharia de Software**
 <p align="left"> 
     <a href="https://github.com/Lucas-Silva-07?tab=repositories&sort=stargazers">
         <img 
@@ -33,6 +33,32 @@ Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissio
         title="Me siga no Linkedin"
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+
+Bem-vindo ao meu GitHub!
+
+Aqui você encontrará projetos voltados ao meu aprendizado, experimentos e aplicações desenvolvidas com:
+
+- 🐍 Python
+- 🟢 Node.js
+- 🐘 PostgreSQL
+- 🌿 Git & GitHub
+- 🔗 Desenvolvimento de APIs REST
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+- ☕ Java
+- 🐳 Docker
+- 🏗️ Arquitetura de Software
+
+Meu objetivo é desenvolver aplicações **escaláveis**, **seguras** e **bem estruturadas**, sempre buscando evolução contínua como desenvolvedor e aplicar boas práticas de engenharia de software.
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software
+- 💻 Focado em Desenvolvimento Backend
+- 🌱 Aprendendo Java, Spring Boot, Docker e Arquitetura de Software
+- 📚 Sempre estudando novas tecnologias
+- 🎯 Objetivo: construir APIs e sistemas escaláveis
 
 ---
 
@@ -85,9 +111,35 @@ Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-           
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bash" 
+    title="Bash"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" 
+/>
+
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -112,4 +164,10 @@ Olá eu sou o Lucas, tenho 24 anos e sou natural de Pernambuco. Sou um profissio
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucas-silva-07/lucas-silva-07/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
+Sempre aberto para aprender, colaborar e desenvolver novos projetos.
 
